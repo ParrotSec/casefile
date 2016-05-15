@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.view.mining">
+    <module_version install_time="1461848004635" last="true" origin="installer" specification_version="1.0">
+        <file crc="1087443002" name="config/Modules/com-paterva-maltego-view-mining.xml"/>
+        <file crc="608538583" name="modules/com-paterva-maltego-view-mining.jar"/>
+    </module_version>
+</module>

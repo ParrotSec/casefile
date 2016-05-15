@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.knockout">
+    <module_version install_time="1415702050752" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="1584636477" name="config/Modules/org-netbeans-modules-javascript2-knockout.xml"/>
+        <file crc="1096826880" name="modules/org-netbeans-modules-javascript2-knockout.jar"/>
+    </module_version>
+</module>

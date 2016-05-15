@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.transform.api">
+    <module_version install_time="1461847874854" last="true" origin="installer" specification_version="1.1">
+        <file crc="1200434786" name="config/Modules/com-paterva-maltego-transform-api.xml"/>
+        <file crc="2384963087" name="modules/com-paterva-maltego-transform-api.jar"/>
+    </module_version>
+</module>

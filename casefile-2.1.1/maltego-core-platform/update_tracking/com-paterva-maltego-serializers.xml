@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.serializers">
+    <module_version install_time="1461847879292" last="true" origin="installer" specification_version="1.2">
+        <file crc="734783004" name="config/Modules/com-paterva-maltego-serializers.xml"/>
+        <file crc="1463801808" name="modules/com-paterva-maltego-serializers.jar"/>
+    </module_version>
+</module>

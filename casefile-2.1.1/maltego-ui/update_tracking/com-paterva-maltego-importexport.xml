@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.importexport">
+    <module_version install_time="1461847958948" last="true" origin="installer" specification_version="1.1">
+        <file crc="2988323897" name="config/Modules/com-paterva-maltego-importexport.xml"/>
+        <file crc="3351887885" name="modules/com-paterva-maltego-importexport.jar"/>
+        <file crc="3598344187" name="modules/ext/iText-2.1.7.jar"/>
+    </module_version>
+</module>

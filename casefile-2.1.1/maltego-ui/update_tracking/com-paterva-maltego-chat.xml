@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.chat">
+    <module_version install_time="1461847952104" last="true" origin="installer" specification_version="1.1">
+        <file crc="751187068" name="config/Modules/com-paterva-maltego-chat.xml"/>
+        <file crc="1932648206" name="modules/com-paterva-maltego-chat.jar"/>
+    </module_version>
+</module>

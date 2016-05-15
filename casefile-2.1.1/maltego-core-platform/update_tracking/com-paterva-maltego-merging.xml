@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.merging">
+    <module_version install_time="1461847872198" last="true" origin="installer" specification_version="1.1">
+        <file crc="370648173" name="config/Modules/com-paterva-maltego-merging.xml"/>
+        <file crc="2519023852" name="modules/com-paterva-maltego-merging.jar"/>
+    </module_version>
+</module>

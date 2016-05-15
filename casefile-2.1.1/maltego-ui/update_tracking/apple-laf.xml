@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="apple.laf">
+    <module_version install_time="1461847901838" last="true" origin="installer" specification_version="1.0">
+        <file crc="416105527" name="config/Modules/apple-laf.xml"/>
+        <file crc="1974419497" name="modules/apple-laf.jar"/>
+        <file crc="1040527798" name="modules/ext/AppleCompileTime.jar"/>
+    </module_version>
+</module>

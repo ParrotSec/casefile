@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.pushingpixels.flamingo">
+    <module_version install_time="1461847934088" last="true" origin="installer" specification_version="1.1">
+        <file crc="2216283391" name="config/Modules/org-pushingpixels-flamingo.xml"/>
+        <file crc="183349548" name="modules/org-pushingpixels-flamingo.jar"/>
+    </module_version>
+</module>

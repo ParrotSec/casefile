@@ -1,0 +1,18 @@
+Source: casefile
+Section: non-free/utils
+Priority: extra
+Maintainer: Lorenzo "Palinuro" Faletra <eclipse@parrotsec.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: http://paterva.com
+Vcs-Git: git://github.com/parrotsec/casefile.git
+Vcs-Browser: https://github.com/ParrotSec/casefile
+
+Package: casefile
+Architecture: all
+Depends: ${misc:Depends}, default-jre
+Description: Offline intelligence tool
+ CaseFile is Paterva's answer to the offline intelligence 
+ problem. Combining Maltego's fantastic graph and link 
+ analysis this tool allows for analysts to examine links 
+ between manually added data to mind map your information.

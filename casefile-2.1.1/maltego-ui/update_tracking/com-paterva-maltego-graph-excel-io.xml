@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.graph.excel.io">
+    <module_version install_time="1461847928276" last="true" origin="installer" specification_version="1.0">
+        <file crc="2814369748" name="config/Modules/com-paterva-maltego-graph-excel-io.xml"/>
+        <file crc="1092395649" name="modules/com-paterva-maltego-graph-excel-io.jar"/>
+    </module_version>
+</module>

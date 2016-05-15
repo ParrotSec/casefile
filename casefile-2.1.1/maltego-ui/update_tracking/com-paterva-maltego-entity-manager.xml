@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.entity.manager">
+    <module_version install_time="1461847965245" last="true" origin="installer" specification_version="1.2">
+        <file crc="3006564631" name="config/Modules/com-paterva-maltego-entity-manager.xml"/>
+        <file crc="3591688397" name="modules/com-paterva-maltego-entity-manager.jar"/>
+    </module_version>
+</module>

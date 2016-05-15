@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.mtgx">
+    <module_version install_time="1461848009432" last="true" origin="installer" specification_version="1.0">
+        <file crc="182959382" name="config/Modules/com-paterva-maltego-mtgx.xml"/>
+        <file crc="2997490602" name="modules/com-paterva-maltego-mtgx.jar"/>
+    </module_version>
+</module>

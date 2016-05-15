@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.detailview">
+    <module_version install_time="1461848017948" last="true" origin="installer" specification_version="1.2">
+        <file crc="2718871633" name="config/Modules/com-paterva-maltego-detailview.xml"/>
+        <file crc="3929910643" name="modules/com-paterva-maltego-detailview.jar"/>
+    </module_version>
+</module>

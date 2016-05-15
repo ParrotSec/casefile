@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.entities.casefile">
+    <module_version install_time="1461847852823" last="true" origin="installer" specification_version="1.0">
+        <file crc="2539150161" name="config/Modules/com-paterva-maltego-entities-casefile.xml"/>
+        <file crc="3264362395" name="modules/com-paterva-maltego-entities-casefile.jar"/>
+    </module_version>
+</module>

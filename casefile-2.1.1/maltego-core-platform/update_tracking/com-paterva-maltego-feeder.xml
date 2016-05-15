@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.feeder">
+    <module_version install_time="1461847854448" last="true" origin="installer" specification_version="1.1">
+        <file crc="571544525" name="config/Modules/com-paterva-maltego-feeder.xml"/>
+        <file crc="1712016997" name="modules/com-paterva-maltego-feeder.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.view.customization.ui">
+    <module_version install_time="1461848003620" last="true" origin="installer" specification_version="1.2">
+        <file crc="1980686490" name="config/Modules/com-paterva-maltego-view-customization-ui.xml"/>
+        <file crc="2632636318" name="modules/com-paterva-maltego-view-customization-ui.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.pinkmatter.modules.flamingo">
+    <module_version install_time="1461847972338" last="true" origin="installer" specification_version="1.1">
+        <file crc="2225562216" name="config/Modules/com-pinkmatter-modules-flamingo.xml"/>
+        <file crc="4161951596" name="modules/com-pinkmatter-modules-flamingo.jar"/>
+    </module_version>
+</module>

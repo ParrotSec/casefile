@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.graph.table.ui">
+    <module_version install_time="1461848015854" last="true" origin="installer" specification_version="1.2">
+        <file crc="1899212799" name="config/Modules/com-paterva-maltego-graph-table-ui.xml"/>
+        <file crc="3184518756" name="modules/com-paterva-maltego-graph-table-ui.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.view.list">
+    <module_version install_time="1461847983088" last="true" origin="installer" specification_version="1.1">
+        <file crc="2054726675" name="config/Modules/com-paterva-maltego-view-list.xml"/>
+        <file crc="1595264478" name="modules/com-paterva-maltego-view-list.jar"/>
+    </module_version>
+</module>

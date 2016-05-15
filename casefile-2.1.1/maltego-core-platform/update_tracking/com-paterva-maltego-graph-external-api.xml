@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.graph.external.api">
+    <module_version install_time="1461847878370" last="true" origin="installer" specification_version="1.1">
+        <file crc="2550573183" name="config/Modules/com-paterva-maltego-graph-external-api.xml"/>
+        <file crc="3891217273" name="modules/com-paterva-maltego-graph-external-api.jar"/>
+    </module_version>
+</module>

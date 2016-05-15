@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.java_websocket">
+    <module_version install_time="1461847856557" last="true" origin="installer" specification_version="1.1">
+        <file crc="1861924301" name="config/Modules/org-java_websocket.xml"/>
+        <file crc="1778000723" name="modules/ext/java_websocket.jar"/>
+        <file crc="248577118" name="modules/org-java_websocket.jar"/>
+    </module_version>
+</module>

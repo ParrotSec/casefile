@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.xmpp">
+    <module_version install_time="1461847856042" last="true" origin="installer" specification_version="1.1">
+        <file crc="2407708539" name="config/Modules/com-paterva-maltego-xmpp.xml"/>
+        <file crc="1570429987" name="modules/com-paterva-maltego-xmpp.jar"/>
+        <file crc="2451822276" name="modules/ext/jbosh-0.6.0.jar"/>
+        <file crc="14313570" name="modules/ext/smack_mtg.jar"/>
+        <file crc="3510698586" name="modules/ext/smackx-debug_mtg.jar"/>
+        <file crc="2016824211" name="modules/ext/smackx_mtg.jar"/>
+        <file crc="3198641408" name="modules/ext/xSocket-2.8.15.jar"/>
+        <file crc="2418433757" name="modules/ext/xlightweb-2.13.2.jar"/>
+        <file crc="838389737" name="modules/ext/xpp3-1.1.4c.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.graph.csv.io">
+    <module_version install_time="1461847924167" last="true" origin="installer" specification_version="1.0">
+        <file crc="2524039949" name="config/Modules/com-paterva-maltego-graph-csv-io.xml"/>
+        <file crc="1428679032" name="modules/com-paterva-maltego-graph-csv-io.jar"/>
+        <file crc="2359800379" name="modules/ext/opencsv-2.2.jar"/>
+    </module_version>
+</module>

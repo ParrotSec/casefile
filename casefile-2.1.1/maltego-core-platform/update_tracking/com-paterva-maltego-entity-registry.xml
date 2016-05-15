@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.entity.registry">
+    <module_version install_time="1461847874432" last="true" origin="installer" specification_version="1.2">
+        <file crc="1738209086" name="config/Modules/com-paterva-maltego-entity-registry.xml"/>
+        <file crc="830508950" name="modules/com-paterva-maltego-entity-registry.jar"/>
+    </module_version>
+</module>

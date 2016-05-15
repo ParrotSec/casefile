@@ -1,0 +1,11 @@
+bin usr/share/casefile/
+etc usr/share/casefile/
+extide usr/share/casefile/
+groovy usr/share/casefile/
+ide usr/share/casefile/
+java usr/share/casefile/
+maltego usr/share/casefile/
+maltego-core-platform usr/share/casefile/
+maltego-ui usr/share/casefile/
+platform usr/share/casefile/
+debian/helper-script/casefile usr/bin/

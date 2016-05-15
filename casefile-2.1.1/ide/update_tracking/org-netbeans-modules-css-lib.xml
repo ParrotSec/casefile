@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.css.lib/1">
+    <module_version install_time="1415702034774" last="true" origin="installer" specification_version="1.72.1">
+        <file crc="3861228073" name="config/Modules/org-netbeans-modules-css-lib.xml"/>
+        <file crc="1982912413" name="modules/org-netbeans-modules-css-lib.jar"/>
+    </module_version>
+</module>

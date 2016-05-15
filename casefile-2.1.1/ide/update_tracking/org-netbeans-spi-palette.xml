@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.spi.palette/1">
+    <module_version install_time="1415701844920" last="true" origin="installer" specification_version="1.42.1">
+        <file crc="168146510" name="config/ModuleAutoDeps/org-netbeans-spi-palette.xml"/>
+        <file crc="1991256938" name="config/Modules/org-netbeans-spi-palette.xml"/>
+        <file crc="416155984" name="modules/org-netbeans-spi-palette.jar"/>
+    </module_version>
+</module>

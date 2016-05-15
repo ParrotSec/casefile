@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.branding.activationapi">
+    <module_version install_time="1461847877870" last="true" origin="installer" specification_version="1.2">
+        <file crc="1776192297" name="config/Modules/com-paterva-maltego-branding-activationapi.xml"/>
+        <file crc="2207221761" name="modules/com-paterva-maltego-branding-activationapi.jar"/>
+    </module_version>
+</module>

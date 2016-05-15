@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.lobobrowser">
+    <module_version install_time="1461847929792" last="true" origin="installer" specification_version="1.0">
+        <file crc="1803556927" name="config/Modules/org-lobobrowser.xml"/>
+        <file crc="2499563577" name="modules/ext/cobra.jar"/>
+        <file crc="3307674518" name="modules/ext/js_ext.jar"/>
+        <file crc="1305662444" name="modules/org-lobobrowser.jar"/>
+    </module_version>
+</module>

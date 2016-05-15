@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.jquery">
+    <module_version install_time="1415702049000" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="1782215377" name="config/Modules/org-netbeans-modules-javascript2-jquery.xml"/>
+        <file crc="4021727325" name="docs/jquery-api.xml"/>
+        <file crc="1822364457" name="docs/jquery-propertyNames.xml"/>
+        <file crc="195691333" name="modules/org-netbeans-modules-javascript2-jquery.jar"/>
+    </module_version>
+</module>

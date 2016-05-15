@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.apache.poi">
+    <module_version install_time="1461847925979" last="true" origin="installer" specification_version="1.0">
+        <file crc="2127508752" name="config/Modules/org-apache-poi.xml"/>
+        <file crc="2050839146" name="modules/ext/dom4j-1.6.1.jar"/>
+        <file crc="1773034004" name="modules/ext/geronimo-stax-api_1.0_spec-1.0.jar"/>
+        <file crc="1501659744" name="modules/ext/junit-3.8.1.jar"/>
+        <file crc="3236109920" name="modules/ext/poi-3.7-20101029.jar"/>
+        <file crc="2566344178" name="modules/ext/poi-ooxml-3.7-20101029.jar"/>
+        <file crc="3816573878" name="modules/ext/poi-ooxml-schemas-3.7-20101029.jar"/>
+        <file crc="3116060521" name="modules/ext/xmlbeans-2.3.0.jar"/>
+        <file crc="1526267399" name="modules/org-apache-poi.jar"/>
+    </module_version>
+</module>

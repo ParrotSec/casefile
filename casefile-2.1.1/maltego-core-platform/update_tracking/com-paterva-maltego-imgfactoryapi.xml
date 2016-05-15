@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.imgfactoryapi">
+    <module_version install_time="1461847868604" last="true" origin="installer" specification_version="1.1">
+        <file crc="934262774" name="config/Modules/com-paterva-maltego-imgfactoryapi.xml"/>
+        <file crc="934894860" name="modules/com-paterva-maltego-imgfactoryapi.jar"/>
+    </module_version>
+</module>

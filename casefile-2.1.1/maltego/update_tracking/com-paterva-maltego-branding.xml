@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.branding">
+    <module_version install_time="1461848050667" last="true" origin="installer" specification_version="1.4">
+        <file crc="290450289" name="config/Modules/com-paterva-maltego-branding.xml"/>
+        <file crc="3603196377" name="core/locale/core_maltego.jar"/>
+        <file crc="1836792364" name="modules/com-paterva-maltego-branding.jar"/>
+        <file crc="2100992685" name="modules/ext/locale/updater_maltego.jar"/>
+        <file crc="2407708763" name="modules/locale/com-paterva-maltego-ui-graph_maltego.jar"/>
+        <file crc="3779146201" name="modules/locale/com-paterva-maltego-util-ui_maltego.jar"/>
+        <file crc="2172813995" name="modules/locale/com-paterva-maltego-welcome_maltego.jar"/>
+        <file crc="2106177705" name="modules/locale/com-pinkmatter-modules-flamingo_maltego.jar"/>
+        <file crc="1604040354" name="modules/locale/org-netbeans-core-windows_maltego.jar"/>
+        <file crc="572209794" name="modules/locale/org-netbeans-core_maltego.jar"/>
+    </module_version>
+</module>

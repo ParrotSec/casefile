@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.transform.descriptor">
+    <module_version install_time="1461847875760" last="true" origin="installer" specification_version="1.2">
+        <file crc="3915144306" name="config/Modules/com-paterva-maltego-transform-descriptor.xml"/>
+        <file crc="1979715519" name="modules/com-paterva-maltego-transform-descriptor.jar"/>
+    </module_version>
+</module>

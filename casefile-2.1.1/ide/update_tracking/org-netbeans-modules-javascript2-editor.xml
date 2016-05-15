@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.javascript2.editor/1">
+    <module_version install_time="1415702044948" last="true" origin="installer" specification_version="0.44.1">
+        <file crc="2436414915" name="config/Modules/org-netbeans-modules-javascript2-editor.xml"/>
+        <file crc="2123644507" name="jsstubs/corestubs.zip"/>
+        <file crc="3628780271" name="jsstubs/domstubs.zip"/>
+        <file crc="2038483872" name="jsstubs/reststubs.zip"/>
+        <file crc="3311474580" name="modules/org-netbeans-modules-javascript2-editor.jar"/>
+    </module_version>
+</module>

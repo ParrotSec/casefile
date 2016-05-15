@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.chatapi">
+    <module_version install_time="1461847859838" last="true" origin="installer" specification_version="1.1">
+        <file crc="183045157" name="config/Modules/com-paterva-maltego-chatapi.xml"/>
+        <file crc="1942765697" name="modules/com-paterva-maltego-chatapi.jar"/>
+    </module_version>
+</module>

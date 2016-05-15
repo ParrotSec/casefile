@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.laf">
+    <module_version install_time="1461847970932" last="true" origin="installer" specification_version="1.1">
+        <file crc="3737423570" name="config/Modules/com-paterva-maltego-laf.xml"/>
+        <file crc="2983661674" name="modules/com-paterva-maltego-laf.jar"/>
+    </module_version>
+</module>

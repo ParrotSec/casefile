@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.find">
+    <module_version install_time="1461848012167" last="true" origin="installer" specification_version="1.1">
+        <file crc="2040278188" name="config/Modules/com-paterva-maltego-find.xml"/>
+        <file crc="3036063966" name="modules/com-paterva-maltego-find.jar"/>
+    </module_version>
+</module>

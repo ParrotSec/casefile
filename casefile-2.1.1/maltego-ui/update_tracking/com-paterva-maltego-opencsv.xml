@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.opencsv">
+    <module_version install_time="1461847923463" last="true" origin="installer" specification_version="1.0">
+        <file crc="238660393" name="config/Modules/com-paterva-maltego-opencsv.xml"/>
+        <file crc="988749592" name="modules/com-paterva-maltego-opencsv.jar"/>
+        <file crc="2359800379" name="modules/ext/opencsv-2.2.jar"/>
+    </module_version>
+</module>

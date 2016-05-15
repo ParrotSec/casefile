@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.archive.mtz">
+    <module_version install_time="1461847872838" last="true" origin="installer" specification_version="1.1">
+        <file crc="2814582100" name="config/Modules/com-paterva-maltego-archive-mtz.xml"/>
+        <file crc="561518900" name="modules/com-paterva-maltego-archive-mtz.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.customicons">
+    <module_version install_time="1461847960620" last="true" origin="installer" specification_version="1.0">
+        <file crc="938515027" name="config/Modules/com-paterva-maltego-customicons.xml"/>
+        <file crc="650669781" name="modules/com-paterva-maltego-customicons.jar"/>
+    </module_version>
+</module>

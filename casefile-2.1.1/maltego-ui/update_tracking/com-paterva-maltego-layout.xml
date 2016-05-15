@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.layout">
+    <module_version install_time="1461847985495" last="true" origin="installer" specification_version="1.1">
+        <file crc="25003011" name="config/Modules/com-paterva-maltego-layout.xml"/>
+        <file crc="3477971961" name="modules/com-paterva-maltego-layout.jar"/>
+    </module_version>
+</module>

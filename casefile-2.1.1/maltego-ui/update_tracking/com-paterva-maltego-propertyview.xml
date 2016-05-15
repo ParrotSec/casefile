@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.propertyview">
+    <module_version install_time="1461848006338" last="true" origin="installer" specification_version="1.1">
+        <file crc="2609216357" name="config/Modules/com-paterva-maltego-propertyview.xml"/>
+        <file crc="3813811839" name="modules/com-paterva-maltego-propertyview.jar"/>
+    </module_version>
+</module>

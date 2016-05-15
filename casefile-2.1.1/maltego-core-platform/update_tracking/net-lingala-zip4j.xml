@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="net.lingala.zip4j">
+    <module_version install_time="1461847856307" last="true" origin="installer" specification_version="1.2.6">
+        <file crc="1389644750" name="config/Modules/net-lingala-zip4j.xml"/>
+        <file crc="3794366409" name="modules/ext/zip4j_1.2.5.jar"/>
+        <file crc="493201686" name="modules/net-lingala-zip4j.jar"/>
+    </module_version>
+</module>

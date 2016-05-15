@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.java.project/1">
+    <module_version install_time="1415701950572" last="true" origin="installer" specification_version="1.60.1">
+        <file crc="708173727" name="config/ModuleAutoDeps/org-netbeans-modules-java-project.xml"/>
+        <file crc="1467973240" name="config/Modules/org-netbeans-modules-java-project.xml"/>
+        <file crc="3621721984" name="modules/org-netbeans-modules-java-project.jar"/>
+    </module_version>
+</module>

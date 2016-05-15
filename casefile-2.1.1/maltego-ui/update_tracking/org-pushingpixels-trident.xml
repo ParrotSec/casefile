@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.pushingpixels.trident">
+    <module_version install_time="1461847931057" last="true" origin="installer" specification_version="1.0">
+        <file crc="89333308" name="config/Modules/org-pushingpixels-trident.xml"/>
+        <file crc="230157818" name="modules/org-pushingpixels-trident.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.update.kit.casefile">
+    <module_version install_time="1461848051385" last="true" origin="installer" specification_version="1.0">
+        <file crc="3942081547" name="config/Modules/com-paterva-maltego-update-kit-casefile.xml"/>
+        <file crc="2971568226" name="modules/com-paterva-maltego-update-kit-casefile.jar"/>
+    </module_version>
+</module>

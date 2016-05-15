@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.view.ball">
+    <module_version install_time="1461847987042" last="true" origin="installer" specification_version="1.1">
+        <file crc="377039249" name="config/Modules/com-paterva-maltego-view-ball.xml"/>
+        <file crc="2235698725" name="modules/com-paterva-maltego-view-ball.jar"/>
+    </module_version>
+</module>

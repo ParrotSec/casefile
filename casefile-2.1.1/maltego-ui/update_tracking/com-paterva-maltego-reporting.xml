@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.reporting">
+    <module_version install_time="1461848019385" last="true" origin="installer" specification_version="1.1">
+        <file crc="1714441953" name="config/Modules/com-paterva-maltego-reporting.xml"/>
+        <file crc="1169864474" name="modules/com-paterva-maltego-reporting.jar"/>
+        <file crc="3598344187" name="modules/ext/iText-2.1.7.jar"/>
+    </module_version>
+</module>
